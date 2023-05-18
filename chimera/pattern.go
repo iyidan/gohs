@@ -10,7 +10,7 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/flier/gohs/internal/ch"
+	"github.com/iyidan/gohs/internal/ch"
 )
 
 // Pattern is a matching pattern.

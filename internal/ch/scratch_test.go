@@ -8,9 +8,9 @@ import (
 
 	. "github.com/smartystreets/goconvey/convey"
 
-	"github.com/flier/gohs/hyperscan"
-	"github.com/flier/gohs/internal/ch"
-	"github.com/flier/gohs/internal/hs"
+	"github.com/iyidan/gohs/hyperscan"
+	"github.com/iyidan/gohs/internal/ch"
+	"github.com/iyidan/gohs/internal/hs"
 )
 
 //nolint:funlen

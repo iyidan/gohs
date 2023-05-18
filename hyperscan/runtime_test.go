@@ -6,7 +6,7 @@ import (
 
 	. "github.com/smartystreets/goconvey/convey"
 
-	"github.com/flier/gohs/hyperscan"
+	"github.com/iyidan/gohs/hyperscan"
 )
 
 type (

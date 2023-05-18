@@ -3,7 +3,7 @@
 
 package chimera
 
-import "github.com/flier/gohs/internal/ch"
+import "github.com/iyidan/gohs/internal/ch"
 
 // ErrUnknown is the unexpected internal error from Hyperscan.
 const ErrUnknownHSError Error = ch.ErrUnknownHSError

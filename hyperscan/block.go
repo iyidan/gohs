@@ -3,7 +3,7 @@ package hyperscan
 import (
 	"errors"
 
-	"github.com/flier/gohs/internal/hs"
+	"github.com/iyidan/gohs/internal/hs"
 )
 
 // BlockScanner is the block (non-streaming) regular expression scanner.

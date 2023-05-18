@@ -7,7 +7,7 @@ import (
 
 	. "github.com/smartystreets/goconvey/convey"
 
-	"github.com/flier/gohs/internal/hs"
+	"github.com/iyidan/gohs/internal/hs"
 )
 
 func TestVersion(t *testing.T) {

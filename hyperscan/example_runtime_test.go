@@ -3,7 +3,7 @@ package hyperscan_test
 import (
 	"fmt"
 
-	"github.com/flier/gohs/hyperscan"
+	"github.com/iyidan/gohs/hyperscan"
 )
 
 func ExampleBlockScanner() {

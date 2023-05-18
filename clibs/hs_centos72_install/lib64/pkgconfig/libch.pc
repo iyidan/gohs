@@ -1,0 +1,12 @@
+prefix=/root/hs-source/hyperscan/hs_centos72_install
+exec_prefix=/root/hs-source/hyperscan/hs_centos72_install
+libdir=/root/hs-source/hyperscan/hs_centos72_install/lib64
+includedir=/root/hs-source/hyperscan/hs_centos72_install/include
+
+Name: libch
+Description: Intel(R) Chimera Library
+Version: 5.4.2
+Requires.private: libhs
+Libs: -L${libdir} -lchimera
+Libs.private:  -lstdc++ -lm -lgcc_s -lgcc -lc -lgcc_s -lgcc -L/root/hs-source/hyperscan/lib -lpcre
+Cflags: -I${includedir}/hs

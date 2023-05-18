@@ -5,7 +5,7 @@ import (
 	"runtime"
 	"unsafe"
 
-	"github.com/flier/gohs/internal/handle"
+	"github.com/iyidan/gohs/internal/handle"
 )
 
 /*

@@ -8,8 +8,8 @@ import (
 
 	. "github.com/smartystreets/goconvey/convey"
 
-	"github.com/flier/gohs/chimera"
-	"github.com/flier/gohs/hyperscan"
+	"github.com/iyidan/gohs/chimera"
+	"github.com/iyidan/gohs/hyperscan"
 )
 
 func TestChimera(t *testing.T) {

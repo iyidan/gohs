@@ -7,8 +7,8 @@ import (
 	"fmt"
 	"regexp"
 
-	"github.com/flier/gohs/hyperscan"
-	"github.com/flier/gohs/internal/ch"
+	"github.com/iyidan/gohs/hyperscan"
+	"github.com/iyidan/gohs/internal/ch"
 )
 
 // Error is the type for errors returned by Chimera functions.

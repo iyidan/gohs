@@ -36,7 +36,7 @@ import (
 	"sync/atomic"
 	"time"
 
-	"github.com/flier/gohs/hyperscan"
+	"github.com/iyidan/gohs/hyperscan"
 )
 
 var (

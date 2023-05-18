@@ -3,7 +3,7 @@ package hyperscan
 import (
 	"runtime"
 
-	"github.com/flier/gohs/internal/hs"
+	"github.com/iyidan/gohs/internal/hs"
 )
 
 // Scratch is a Hyperscan scratch space.

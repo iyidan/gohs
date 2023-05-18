@@ -8,9 +8,9 @@ import (
 	"runtime"
 	"strconv"
 
-	"github.com/flier/gohs/hyperscan"
-	"github.com/flier/gohs/internal/ch"
-	"github.com/flier/gohs/internal/hs"
+	"github.com/iyidan/gohs/hyperscan"
+	"github.com/iyidan/gohs/internal/ch"
+	"github.com/iyidan/gohs/internal/hs"
 )
 
 // A type containing error details that is returned by the compile calls on failure.

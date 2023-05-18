@@ -6,7 +6,7 @@ package chimera_test
 import (
 	"fmt"
 
-	"github.com/flier/gohs/chimera"
+	"github.com/iyidan/gohs/chimera"
 )
 
 func ExampleBlockScanner() {

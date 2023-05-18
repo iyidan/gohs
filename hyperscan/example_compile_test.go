@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/flier/gohs/hyperscan"
+	"github.com/iyidan/gohs/hyperscan"
 )
 
 // This example demonstrates construct and match a pattern.

@@ -6,7 +6,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/flier/gohs/hyperscan"
+	"github.com/iyidan/gohs/hyperscan"
 )
 
 var benchData = []struct{ name, re string }{

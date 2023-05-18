@@ -7,7 +7,7 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/flier/gohs/internal/hs"
+	"github.com/iyidan/gohs/internal/hs"
 )
 
 // ExprInfo containing information related to an expression.

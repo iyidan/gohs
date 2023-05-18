@@ -1,0 +1,11 @@
+prefix=/root/hs-source/hyperscan/hs_centos72_install
+exec_prefix=/root/hs-source/hyperscan/hs_centos72_install
+libdir=/root/hs-source/hyperscan/hs_centos72_install/lib64
+includedir=/root/hs-source/hyperscan/hs_centos72_install/include
+
+Name: libhs
+Description: Intel(R) Hyperscan Library
+Version: 5.4.2
+Libs: -L${libdir} -lhs
+Libs.private:  -lstdc++ -lm -lgcc_s -lgcc -lc -lgcc_s -lgcc
+Cflags: -I${includedir}/hs
